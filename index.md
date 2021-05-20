@@ -1,5 +1,5 @@
-
-# No Data is Collected When Using LibraryCorner 
+# Privacy Policy
+## No Data is Collected When Using LibraryCorner 
 
 - Personal data is not collected, used, or saved and there is no access of any personal data recorded in LibraryCorner on your device.
 
